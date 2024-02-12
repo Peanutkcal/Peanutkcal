@@ -1,4 +1,4 @@
-### Hi there 👋
+### 나를 나타낼 수 있는 프로필 파일 작성해보기 👋
 
 <!--
 **Peanutkcal/Peanutkcal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+mark down 사용하면서 해보기
